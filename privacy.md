@@ -1,4 +1,4 @@
-#Pet Med Minder - Privacy policy
+# Pet Med Minder - Privacy policy
 
 Pet Med Minder is intended to help you remember when you gave your pet a treatment. 
 
